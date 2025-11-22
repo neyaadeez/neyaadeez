@@ -1,4 +1,11 @@
 ### Hi there 👋
+<!--START_STATS-->
+![Commits](https://img.shields.io/badge/Commits-Loading-blue?style=flat)
+![PRs Opened](https://img.shields.io/badge/PRs%20Opened-Loading-blue?style=flat)
+![PRs Reviewed](https://img.shields.io/badge/PRs%20Reviewed-Loading-blue?style=flat)
+![Issues Opened](https://img.shields.io/badge/Issues%20Opened-Loading-blue?style=flat)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-Loading-blue?style=flat)
+<!--END_STATS-->
 
 <!--
 **neyaadeez/neyaadeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
