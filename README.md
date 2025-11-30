@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--START_STATS-->
-![Commits](https://img.shields.io/badge/Commits-648-blue?style=flat)
-![PRs Opened](https://img.shields.io/badge/PRs%20Opened-90-blue?style=flat)
+![Commits](https://img.shields.io/badge/Commits-662-blue?style=flat)
+![PRs Opened](https://img.shields.io/badge/PRs%20Opened-93-blue?style=flat)
 ![PRs Reviewed](https://img.shields.io/badge/PRs%20Reviewed-27-blue?style=flat)
 <!--END_STATS-->
 
