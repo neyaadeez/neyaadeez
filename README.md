@@ -1,9 +1,4 @@
 ### Hi there 👋
-<!--START_STATS-->
-![Commits](https://img.shields.io/badge/Commits-723-blue?style=flat)
-![PRs Opened](https://img.shields.io/badge/PRs%20Opened-113-blue?style=flat)
-![PRs Reviewed](https://img.shields.io/badge/PRs%20Reviewed-28-blue?style=flat)
-<!--END_STATS-->
 
 <!--
 **neyaadeez/neyaadeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
